@@ -1,12 +1,15 @@
 #include<string>
 #include<iostream>
+using namespace std
+
 int main()
 {
 system("pause");
-std::cout << retString() << std::endl;
+cout << retString() << endl;
 return 0;
 }
 string retString()
 {
-//type here dipshit
+
+return "asshole"; 
 }
