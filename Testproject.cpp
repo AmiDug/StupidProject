@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-string retstring();
+string retString();
 cin.get();
 cout << retString() << endl;
 return 0;
